@@ -62,13 +62,14 @@ It is designed as a **finite state machine (FSM)** integrating with **cooperativ
 
 ## 🔌 Circuit Design
 
-### 🖼 Circuit Diagram
 
-> Add your Tinkercad screenshots below:
+#### Full Circuit with sensor names
 
-#### Full Circuit
+![Main circuit sensors](screenshots/main_circuit_sensors.png)
 
-![Full Circuit](images/full_circuit.png)
+#### Arduino Connections
+
+![Arduino Wiring](images/arduino_wiring.png) 
 
 #### Arduino Connections
 
