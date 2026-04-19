@@ -65,15 +65,15 @@ It is designed as a **finite state machine (FSM)** integrating with **cooperativ
 
 #### Full Circuit with sensor names
 
-![Main circuit sensors](screenshots/main_circuit_sensors.png)
+![main_circuit_sensors](screenshots/main_circuit_sensors.png)
 
-#### Arduino Connections
+#### LED Breadboard
 
-![Arduino Wiring](images/arduino_wiring.png) 
+![led_breadboard](screenshots/led_breadboard_view.png) 
 
-#### Arduino Connections
+#### PIR Breadboard
 
-![Arduino Wiring](images/arduino_wiring.png)
+![pir_breadboard](screenshots/pir_breadboard_view.png)
 
 ---
 
