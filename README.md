@@ -227,16 +227,6 @@ This project demonstrates:
 
 ---
 
-## 📸 Demo (Optional)
-
-> Add screenshots or GIFs here showing:
-
-* Alarm triggering
-* Grace period behavior
-* Reset functionality
-
----
-
 ## 📜 License
 
 This project is open-source and available under the MIT License.
